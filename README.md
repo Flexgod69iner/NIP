@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Flexgod69iner/NIP/blob/master/NILU%20JR%20(2).png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
